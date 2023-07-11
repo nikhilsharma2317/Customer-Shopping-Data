@@ -5,7 +5,7 @@ This project focuses on the analysis of customer shopping data. It loads data fr
 
 ## Files in the Repository
 
-- `Customer Shopping Data Updated.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for loading and cleaning data, and carrying out exploratory data analysis.
+- `Customer Shopping Data.ipynb`: This is the Jupyter notebook containing the data analysis. It includes operations for loading and cleaning data, and carrying out exploratory data analysis.
 - `requirements_Customer_Shopping_Data.txt`: This file lists the Python packages required to run the notebook.
 
 ## Installation & Usage
